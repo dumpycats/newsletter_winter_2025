@@ -15,7 +15,7 @@ body {
     font-family: "Ithaca";
     font-style: normal;
     font-weight: 400;
-    src: url(https://github.com/dumpycats/newsletter_winter_2025/blob/2e978f64b9e005db28eb4c2e0f65d7510156f562/fonts/a.ttf) format("truetype");
+    src: url("https://github.com/dumpycats/newsletter_winter_2025/fonts/a.ttf") format("truetype");
 }
 
 body {
