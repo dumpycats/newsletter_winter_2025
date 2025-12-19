@@ -15,7 +15,7 @@ body {
     font-family: "Ithaca";
     font-style: normal;
     font-weight: 400;
-    src: url(../fonts/a.ttf) format("truetype");
+    src: url(fonts/a.ttf) format("truetype");
 }
 
 body {
