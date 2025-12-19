@@ -15,7 +15,7 @@ body {
     font-family: "8bit";
     font-style: normal;
     font-weight: 400;
-    src: url("https://github.com/dumpycats/newsletter_winter_2025/fonts/a.ttf") format("truetype");
+    src: url("../fonts/a.ttf") format("truetype");
 }
 
 body {
